@@ -1,4 +1,5 @@
-[
+{
+    "data": [
         {
             "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eyes-a-sustained-move-above-1-940-amid-favorable-technicals-202301230701",
             "image_url": "https://forexnewsapi.snapi.dev/images/v1/d/r/f35-120514.jpg",
@@ -343,4 +344,4 @@
             ]
         }
     ]
-
+}
