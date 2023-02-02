@@ -1,32 +1,15 @@
 {
     "data": [
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-retreats-towards-1-900-on-firmer-us-dollar-mixed-sentiment-202301310536",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/g/y/f30-121614.jpg",
-            "title": "Gold Price Forecast: XAU/USD drops towards $1,900 on firmer US Dollar, mixed sentiment",
-            "text": "Gold price (XAU/USD) holds lower grounds as sellers attack a short-term key support line near $1,920 heading into Tuesday's European session. In doing so, the precious metal reverses the mid-Asian session's corrective bounce off the stated trend line support.",
-            "source_name": "FX Street",
-            "date": "Tue, 31 Jan 2023 00:36:31 -0500",
+            "news_url": "https://www.actionforex.com/contributors/technical-analysis/484481-xau-usd-gold-hits-multi-month-high-after-dovish-fed/",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/8/j/f24-122163.jpg",
+            "title": "XAU/USD: Gold Hits Multi-month High after Dovish Fed",
+            "text": "Investors entered fresh gold longs, as dollar became less popular after the US central bank announced widely expected 25 basis points hike, but the markets took the latest decision as signal that the Fed is nearing its tightening cycle.",
+            "source_name": "Action Forex",
+            "date": "Thu, 02 Feb 2023 07:21:13 -0500",
             "topics": [
+                "Federal Reserve",
                 "Gold",
-                "USA"
-            ],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rebounds-on-china-data-international-monetary-fund-growth-projections-202301310302",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/2/z/f13-121591.jpg",
-            "title": "Gold Price Forecast: XAU/USD rebounds on China data, International Monetary Fund growth projections",
-            "text": "Gold price (XAU/USD) licks its wounds around $1,925 after a three-day downtrend as market sentiment improves during early Tuesday. The reason could be linked to China's official activity data and the upbeat growth forecasts from the International Monetary Fund (IMF).",
-            "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 22:02:35 -0500",
-            "topics": [
-                "Gold",
-                "China",
                 "USA"
             ],
             "sentiment": "Positive",
@@ -36,34 +19,82 @@
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-declines-toward-1-920-as-fed-looks-set-to-hike-interest-rates-further-202301310022",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/q/v/f25-121566.jpg",
-            "title": "Gold Price Forecast: XAU/USD declines toward $1,920 as Fed looks set to hike interest rates further",
-            "text": "Gold price (XAU/USD) is scaling downside towards the immediate support of $1,920.00 in the Asian session. The precious metal has been displaying a topsy-turvy move amid rising traction for the US Dollar Index (DXY) ahead of the interest rate decision by the Federal Reserve (Fed), which is scheduled for Wednesday.",
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-steady-near-multi-month-peak-above-1-950-level-202302021009",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/w/r/f40-122138.jpg",
+            "title": "Gold Price Forecast: XAU/USD holds steady near multi-month peak, above $1,950 level",
+            "text": "Gold price builds on this week's positive move from the $1,900 round-figure mark and scales higher for the third successive day on Thursday. The momentum lifts the XAU/USD to the highest level since April 2022, around the $1,960 area during the first half of the European session, albeit lacks strong follow-through.",
             "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 19:22:25 -0500",
+            "date": "Thu, 02 Feb 2023 05:09:46 -0500",
             "topics": [
-                "Federal Reserve",
                 "Gold",
                 "USA"
             ],
-            "sentiment": "Negative",
+            "sentiment": "Positive",
             "type": "Article",
             "currency": [
                 "XAU-USD"
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bulls-could-emerge-ahead-of-federal-reserve-202301302139",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/c/5/f39-121542.jpg",
-            "title": "Gold Price Forecast: XAU/USD bulls could emerge ahead of Federal Reserve",
-            "text": "The Gold price has drifted lower for a third day and is testing structure as we head towards key events this week, including the Federal Reserve and the European Central Bank as the key events, the Bank of England and also the United States of America jobs data. The Gold price is down some 0.29%  so far having lost territory from a high of $1,934.56 and running into a low of $1,920.74 so far.",
+            "news_url": "https://www.fxstreet.com/news/gold-futures-green-light-for-further-gains-202302021001",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/g/q/f2-122140.jpg",
+            "title": "Gold Futures: Green light for further gains",
+            "text": "Open interest in gold futures markets left behind four consecutive daily drops and rose by around 6.3K contracts on Wednesday according to preliminary readings from CME Group. Volume followed suit and increased for the second day in a row, now by around 14.4K contracts.",
             "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 16:39:51 -0500",
+            "date": "Thu, 02 Feb 2023 05:01:29 -0500",
             "topics": [
-                "Federal Reserve",
+                "Gold"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.actionforex.com/contributors/technical-analysis/484411-xau-usd-breaks-higher-2/",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/g/z/f18-122114.jpg",
+            "title": "XAU/USD Breaks Higher",
+            "text": "Gold surges as the US dollar tumbles across the board post-FOMC. On the daily chart, the precious metal is still grinding the demand-turned-supply zone 1950-1995.",
+            "source_name": "Action Forex",
+            "date": "Thu, 02 Feb 2023 03:41:30 -0500",
+            "topics": [
+                "USA"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eyes-acceptance-above-1-960-to-initiate-a-fresh-uptrend-202302020659",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/l/x/f32-122088.jpg",
+            "title": "Gold Price Forecast: XAU/USD eyes acceptance above $1,960 to initiate a fresh uptrend",
+            "text": "Gold price is sitting at the best levels seen in the last ten months above $1,950. XAU/USD needs to take out $1,960 resistance for further upside, FXStreet's Dhwani Mehta reports.",
+            "source_name": "FX Street",
+            "date": "Thu, 02 Feb 2023 01:59:21 -0500",
+            "topics": [
                 "Gold",
                 "USA"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-juggles-above-1-950-as-risk-on-mood-loses-momentum-ahead-of-us-nfp-202302020613",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/9/e/f20-122081.jpg",
+            "title": "Gold Price Forecast: XAU/USD juggles above $1,950 as risk-on mood loses momentum ahead of US NFP",
+            "text": "Gold price (XAU/USD) is displaying back-and-forth moves in the early London session after a breathtaking rally above the crucial resistance of $1,950.00. The precious metal has turned sideways as the US Dollar Index (DXY) is building a cushion around 100.50.",
+            "source_name": "FX Street",
+            "date": "Thu, 02 Feb 2023 01:13:28 -0500",
+            "topics": [
+                "Gold",
+                "USA",
+                "NFP"
             ],
             "sentiment": "Neutral",
             "type": "Article",
@@ -72,51 +103,16 @@
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-seesaws-around-1920s-with-traders-bracing-for-us-fomcs-decision-202301301537",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/q/q/f24-121527.jpg",
-            "title": "Gold Price Forecast: XAU/USD seesaws around $1,920s with traders bracing for US FOMC's decision",
-            "text": "Gold price trades mostly sideways due to investors preparing for the US Federal Reserve Open Market Committee (FOMC) meeting, which will begin on Tuesday. Most analysts estimate the US Federal Reserve (Fed) would increase rates by 25 bps, though they will be looking for cues about future meetings.",
-            "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 10:37:06 -0500",
-            "topics": [
-                "Federal Reserve",
-                "Gold",
-                "USA"
-            ],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.dailyfx.com/news/gold-price-outlook-xau-usd-bulls-tamed-by-psychological-resistance-20230130.html",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/a/w/f23-121526.jpg",
-            "title": "Gold Price Outlook: XAU/USD Bulls Tamed by Psychological Resistance",
-            "text": "Gold prices gapped higher on this week's open, fueling bullish momentum. However, after retesting $1,950, prices have eased.",
+            "news_url": "https://www.dailyfx.com/news/gold-prices-rallied-as-markets-kept-betting-against-the-fed-now-what-20230202.html",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/p/m/f28-122086.jpg",
+            "title": "Gold Prices Rallied as Markets Kept Betting Against the Fed, Now What?",
+            "text": "Gold prices rallied the most in almost 2 weeks as markets continued to bet against the Federal Reserve. What did Jerome Powell say and what are key levels to watch?",
             "source_name": "DailyFX",
-            "date": "Mon, 30 Jan 2023 10:20:34 -0500",
+            "date": "Thu, 02 Feb 2023 01:00:00 -0500",
             "topics": [
+                "Federal Reserve",
                 "Gold",
                 "USA"
-            ],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://invezz.com/news/2023/01/30/gold-at-all-time-highs-in-euro-and-gbp-report/",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/r/1/82572956-m-121522.jpg",
-            "title": "Gold at all-time highs in Euro and GBP – Report",
-            "text": "Gold is always fun to analyse. But right now, it is particularly intriguing, what with all the chaos in the world economy and a spiralling cost-of-living crisis.",
-            "source_name": "Invezz",
-            "date": "Mon, 30 Jan 2023 09:37:35 -0500",
-            "topics": [
-                "Gold",
-                "United Kingdom",
-                "Europe"
             ],
             "sentiment": "Positive",
             "type": "Article",
@@ -125,29 +121,83 @@
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-consolidates-in-a-range-awaits-key-central-bank-meetings-202301301248",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/s/n/f2-121512.jpg",
-            "title": "Gold Price Forecast: XAU/USD consolidates in a range, awaits key central bank meetings",
-            "text": "Gold price kicks off the new week on a subdued note and oscillates in a narrow trading band through the mid-European session. Currently placed around the $1,925 region, the XAU/USD remains confined within Friday's trading range as investors await this week's key central bank event risks before placing fresh directional bets.",
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eyes-smooth-run-up-towards-1-980-confluence-detector-202302020253",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/9/z/f5-122061.jpg",
+            "title": "Gold Price Forecast: XAU/USD eyes smooth run-up towards $1,980 – Confluence Detector",
+            "text": "Gold price (XAU/USD) grinds near the highest levels since April 2022, making rounds to $1,952-50 during early Thursday. In doing so, the XAU/USD bulls seem to catch a breather after rising the most in a fortnight as markets brace for a few more central banks and the US jobs report.",
             "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 07:48:57 -0500",
+            "date": "Wed, 01 Feb 2023 21:53:06 -0500",
             "topics": [
                 "Gold",
                 "USA"
             ],
-            "sentiment": "Neutral",
+            "sentiment": "Positive",
             "type": "Article",
             "currency": [
                 "XAU-USD"
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-weakness-hinges-on-1-920-breakdown-feds-verdict-confluence-detector-202301300657",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/2/o/f1-121432.jpg",
-            "title": "Gold Price Forecast: XAU/USD weakness hinges on $1,920 breakdown, Fed's verdict – Confluence Detector",
-            "text": "Gold price (XAU/USD) stays defensive around $1,930, printing mild gains heading into Monday's European session, as traders begin the key week comprising the Federal Reserve's (Fed) monetary policy and the US employment data for January. Adding strength to the cautious optimism of the XAU/USD traders could be China's return from one-week-long holidays, as well as hopes of a dovish hike from the Fed and downbeat Nonfarm Payrolls (NFP).",
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bulls-cheer-federal-reserve-action-ahead-of-united-states-nonfarm-payrolls-202302020031",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/n/i/f28-122044.jpg",
+            "title": "Gold Price Forecast: XAU/USD bulls cheer Federal Reserve action ahead of United States Nonfarm Payrolls",
+            "text": "Gold price (XAU/USD) makes rounds to the highest levels since late April 2022, close to $1,955 during the mid-Asian session on Thursday. In doing so, the yellow metal extends the US Federal Reserve (Fed) inspired run-up ahead of other major central bank announcements, as well as the US Nonfarm Payrolls (NFP).",
             "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 01:57:49 -0500",
+            "date": "Wed, 01 Feb 2023 19:31:14 -0500",
+            "topics": [
+                "Federal Reserve",
+                "Gold",
+                "USA",
+                "NFP"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-202302012204",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/u/a/f5-122023.jpg",
+            "title": "Gold Price Forecast: XAU/USD",
+            "text": "Gold price shot higher to a fresh bull cycle high on the back of the Federal Reserve's dovish tilt that markets have priced in, smelling a 'Fed-pivot' around the corner, bullish for the Gold price. ",
+            "source_name": "FX Street",
+            "date": "Wed, 01 Feb 2023 17:04:17 -0500",
+            "topics": [
+                "Gold",
+                "USA"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-trades-volatile-around-1920-1930-post-fed-25-bps-hike-202302011922",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/0/n/f28-122005.jpg",
+            "title": "Gold Price Forecast: XAU/USD trades volatile around $1920-$1930 post Fed 25 bps hike",
+            "text": "Gold price rises following the US Federal Reserve (Fed) decision to slow the pace of interest rate increases and lifted the Federal Funds rate (FFR) by 25 bps to the 4.50% – 4.75% area. At the time of writing, the XAU/USD is trading volatile but above its opening price, at around the $1920-$1930 range.",
+            "source_name": "FX Street",
+            "date": "Wed, 01 Feb 2023 14:22:23 -0500",
+            "topics": [
+                "Federal Reserve",
+                "Gold",
+                "USA"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-slides-below-1930-erasing-its-earlier-gains-ahead-of-fomcs-decision-202302011700",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/b/o/f16-121993.jpg",
+            "title": "Gold Price Forecast: XAU/USD slides below $1930, erasing its earlier gains ahead of FOMC's decision",
+            "text": "Gold price retraces from the day's high and failed to hold to earlier gains after a busy US economic calendar released its first tranche of data, which was worse than estimated. In addition, a soft US Dollar (USD), capped the XAU/USD's fall, while US Treasury bond yields continued to push downwards.",
+            "source_name": "FX Street",
+            "date": "Wed, 01 Feb 2023 12:00:43 -0500",
             "topics": [
                 "Federal Reserve",
                 "Gold",
@@ -160,14 +210,15 @@
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-futures-rebound-likely-near-term-202301300643",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/j/g/f3-121434.jpg",
-            "title": "Gold Futures: Rebound likely near term",
-            "text": "CME Group's flash data for gold futures markets noted traders scaled back their open interest positions for the second session in a row on Friday, this time by around 11.4K contracts. Volume followed suit and shrank by around 58.8K contracts.",
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-to-see-a-lengthier-pause-credit-suisse-202302011601",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/w/p/f11-121988.jpg",
+            "title": "Gold Price Forecast: XAU/USD to see a lengthier pause – Credit Suisse",
+            "text": "Gold is having a difficult time gathering further bullish momentum. Economists at Credit Suisse expect the yellow metal to stage a consolidantion phase.",
             "source_name": "FX Street",
-            "date": "Mon, 30 Jan 2023 01:43:48 -0500",
+            "date": "Wed, 01 Feb 2023 11:01:14 -0500",
             "topics": [
-                "Gold"
+                "Gold",
+                "USA"
             ],
             "sentiment": "Neutral",
             "type": "Article",
@@ -176,109 +227,17 @@
             ]
         },
         {
-            "news_url": "https://www.actionforex.com/contributors/technical-analysis/483754-eur-usd-at-risk-of-a-downside-correction-gold-price-consolidates/",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/h/s/f35-121426.jpg",
-            "title": "EUR/USD At Risk of A Downside Correction, Gold Price Consolidates",
-            "text": "The Euro made another attempt to clear the 1.0920 and 1.0925 resistance levels against the US Dollar. EUR/USD seems to be struggling to clear the 1.0925 barrier.",
+            "news_url": "https://www.actionforex.com/action-insight/market-overview/484295-dollar-falls-after-adp-miss-gold-to-try-breakout-ahead-of-fed/",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/p/c/f24-121964.jpg",
+            "title": "Dollar Falls after ADP Miss, Gold To Try Breakout ahead of Fed",
+            "text": "Dollar falls broadly after ADP job data missed expectations, while traders await FOMC rate decision. There is no doubt that Fed will hike interest rate by 25bps today and signals that tightening is not finished.",
             "source_name": "Action Forex",
-            "date": "Mon, 30 Jan 2023 00:45:59 -0500",
-            "topics": [
-                "Gold",
-                "USA",
-                "Europe"
-            ],
-            "sentiment": "Negative",
-            "type": "Article",
-            "currency": [
-                "EUR-USD",
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-stays-defensive-above-1-920-support-as-us-dollar-steadies-ahead-of-fed-nfp-202301300423",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/t/m/f26-121413.jpg",
-            "title": "Gold Price Forecast: XAU/USD stays defensive above $1,920 support as US Dollar steadies ahead of Fed, NFP",
-            "text": "Gold price (XAU/USD) aptly portrays the market's cautious mood ahead of top-tier data/events during early Monday.",
-            "source_name": "FX Street",
-            "date": "Sun, 29 Jan 2023 23:23:43 -0500",
+            "date": "Wed, 01 Feb 2023 09:43:39 -0500",
             "topics": [
                 "Federal Reserve",
-                "Gold",
-                "USA",
-                "NFP"
-            ],
-            "sentiment": "Positive",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-senses-hurdles-around-1-930-as-market-mood-sours-yields-extend-gains-202301300134",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/j/y/f13-121401.jpg",
-            "title": "Gold Price Forecast: XAU/USD senses hurdles around $1,930 as market mood sours, yields extend gains",
-            "text": "Gold price (XAU/USD) has sensed barricades while attempting to cross the critical resistance of $1,930.00 in the Asian session. The precious metal has witnessed selling interest as investors are turning risk averse in the interest rate policy week.",
-            "source_name": "FX Street",
-            "date": "Sun, 29 Jan 2023 20:34:03 -0500",
-            "topics": [
                 "Gold",
                 "USA"
             ],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bears-await-federal-reserve-decision-united-states-non-farm-payrolls-202301292226",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/6/i/f35-121383.jpg",
-            "title": "Gold Price Forecast: XAU/USD bears await Federal Reserve decision, United States Non-farm Payrolls",
-            "text": "Gold price (XAU/USD) holds lower ground near $1,925 after posting an indecisive weekly closing as the metal traders await the key United States data and the Federal Reserve's (Fed) monetary policy decision. Also important will be central bank meetings of the European Central Bank (ECB), Purchasing Managers' Indexes data and the US employment numbers for January.",
-            "source_name": "FX Street",
-            "date": "Sun, 29 Jan 2023 17:26:29 -0500",
-            "topics": [
-                "Federal Reserve",
-                "Gold",
-                "USA",
-                "NFP"
-            ],
-            "sentiment": "Neutral",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.fxstreet.com/news/united-states-cftc-gold-nc-net-positions-increased-to-1577k-from-previous-1532k-202301272031",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/0/l/f12-121362.jpg",
-            "title": "United States CFTC Gold NC Net Positions increased to $157.7K from previous $153.2K",
-            "text": "United States CFTC Gold NC Net Positions increased to $157.7K from previous $153.2K",
-            "source_name": "FX Street",
-            "date": "Fri, 27 Jan 2023 15:31:01 -0500",
-            "topics": [
-                "Gold",
-                "USA",
-                "CFTC"
-            ],
-            "sentiment": "Positive",
-            "type": "Article",
-            "currency": [
-                "XAU-USD"
-            ]
-        },
-        {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-slips-below-1930-after-us-pce-and-uom-consumer-sentiment-202301271546",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/y/d/f36-121345.jpg",
-            "title": "Gold Price Forecast: XAU/USD slips below $1930 after US PCE and UoM Consumer Sentiment",
-            "text": "Gold price falls for the second consecutive day, but it remains above January's 26 low of $1,918.74 and stays sideways, following the release of inflation data in the United States (US). The US Dollar (USD) shortened its drop during the week, while US Treasury bond yields are rising, two additional reasons behind Gold's loss of its brightness.",
-            "source_name": "FX Street",
-            "date": "Fri, 27 Jan 2023 10:46:55 -0500",
-            "topics": [
-                "Gold",
-                "USA",
-                "PCE"
-            ],
             "sentiment": "Negative",
             "type": "Article",
             "currency": [
@@ -286,32 +245,30 @@
             ]
         },
         {
-            "news_url": "https://www.orbex.com/blog/en/2023/01/gold-finds-resistance-at-1950",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/p/z/blog-new-video-templates-en-12-121288.png",
-            "title": "Gold Finds Resistance at $1950!",
-            "text": "Gold price retreated from the $1,950 handle, which is the highest level since April 2022. Modest Dollar strength weighed on the yellow metal as the DXY found some support.",
+            "news_url": "https://www.orbex.com/blog/en/2023/02/surfing-the-waves-with-gregor-horvat-usdcnh-xauusd-xagusd-more",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/8/c/blog-new-video-templates-en-1-121954.png",
+            "title": "Surfing the Waves with Gregor Horvat: USDCNH, XAUUSD, XAGUSD & More!",
+            "text": "In today's advanced #ElliottWave analysis, Gregor dives into the five most interesting opportunities for the week ahead! Watch how he analyses #equities, #FXMajors, and #Commodities and discover how he applies EW principles to come up with his amazing forecasts!",
             "source_name": "Orbex",
-            "date": "Fri, 27 Jan 2023 04:13:35 -0500",
-            "topics": [
-                "Gold"
-            ],
-            "sentiment": "Neutral",
+            "date": "Wed, 01 Feb 2023 08:02:51 -0500",
+            "topics": [],
+            "sentiment": "Positive",
             "type": "Article",
             "currency": [
+                "USD-CNH",
+                "XAG-USD",
                 "XAU-USD"
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-on-the-defensive-around-1-925-ahead-of-us-pce-202301270813",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/9/w/f4-121274.jpg",
-            "title": "Gold Price Forecast: XAU/USD remains on the defensive around $1,925 ahead of US PCE",
-            "text": "Gold price trades with a mild negative bias for the second successive day on Friday and hovers around the $1,925 region during the early European session. The intraday downtick, however, lacks follow-through, warranting some caution before positioning for a deeper corrective pullback from a nine-month peak touched the previous day.",
-            "source_name": "FX Street",
-            "date": "Fri, 27 Jan 2023 03:13:06 -0500",
+            "news_url": "https://www.dailyfx.com/news/gold-bulls-look-tired-after-strong-run-into-2023-20230201.html",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/a/i/f39-121942.jpg",
+            "title": "Gold Bulls Look Tired After Strong Run Into 2023",
+            "text": "Gold prices have been a one-way bet for three months, posting gains on a softer Dollar and hopes that the Fed is losing its enthusiasm for interest rate hikes",
+            "source_name": "DailyFX",
+            "date": "Wed, 01 Feb 2023 06:30:00 -0500",
             "topics": [
-                "Gold",
-                "USA",
-                "PCE"
+                "Gold"
             ],
             "sentiment": "Negative",
             "type": "Article",
@@ -320,12 +277,12 @@
             ]
         },
         {
-            "news_url": "https://www.fxstreet.com/news/gold-futures-downside-seems-limited-202301270754",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/9/m/f35-121263.jpg",
-            "title": "Gold Futures: Downside seems limited",
-            "text": "Considering advanced prints from CME Group for gold futures markets, open interest remained choppy and shrank by around 14.3K contracts on Thursday, reversing at the same time the previous daily build. Volume, instead, resumed the uptrend and rose by around 75.5K contracts.",
+            "news_url": "https://www.fxstreet.com/news/gold-futures-extra-decline-not-ruled-out-202302011027",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/q/s/f25-121925.jpg",
+            "title": "Gold Futures: Extra decline not ruled out",
+            "text": "Open interest in golf futures markets shrank for the fourth consecutive session on Tuesday, this time by just 867 contracts according to preliminary readings from CME Group. Volume, instead, went up by around 34.8K contracts after two daily drops in a row.",
             "source_name": "FX Street",
-            "date": "Fri, 27 Jan 2023 02:54:30 -0500",
+            "date": "Wed, 01 Feb 2023 05:27:32 -0500",
             "topics": [
                 "Gold"
             ],
@@ -336,16 +293,51 @@
             ]
         },
         {
-            "news_url": "https://www.actionforex.com/contributors/technical-analysis/483570-gold-xauusd-rallying-in-a-nesting-elliott-wave-impulse/",
-            "image_url": "https://forexnewsapi.snapi.dev/images/v1/a/k/f19-121248.jpg",
-            "title": "Gold (XAUUSD) Rallying in a Nesting Elliott Wave Impulse",
-            "text": "Cycle from 11.23.2022 is unfolding as a 5 waves nesting Elliott Wave impulse. Up from 11.23.2022 low, wave ((i)) ended at 1810.04 and pullback in wave ((ii)) ended at 1773.92.",
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-treads-water-around-1-925-area-all-eyes-on-fomc-202302010952",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/m/u/f16-121916.jpg",
+            "title": "Gold Price Forecast: XAU/USD treads water around $1,925 area, all eyes on FOMC",
+            "text": "Gold price struggles to capitalize on the overnight goodish rebound from the $1,900 mark, or a nearly two-week low and edges lower on Wednesday. The XAU/USD remains on the defensive through the first half of the European session and is currently trading just below the $1,925 level.",
+            "source_name": "FX Street",
+            "date": "Wed, 01 Feb 2023 04:52:28 -0500",
+            "topics": [
+                "Federal Reserve",
+                "Gold",
+                "USA"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-could-retest-1-900-but-buyers-may-re-emerge-spurring-volatility-202302010659",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/l/o/f3-121861.jpg",
+            "title": "Gold Price Forecast: XAU/USD could retest $1,900 but buyers may re-emerge, spurring volatility",
+            "text": "Gold price holds its recent range after testing the $1,900 mark on Tuesday. In the view of FXStreet's Dhwani Mehta, XAU/USD appears ‘buy the dips' trade.",
+            "source_name": "FX Street",
+            "date": "Wed, 01 Feb 2023 01:59:52 -0500",
+            "topics": [
+                "Gold",
+                "USA"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "currency": [
+                "XAU-USD"
+            ]
+        },
+        {
+            "news_url": "https://www.actionforex.com/contributors/technical-analysis/484158-gold-price-could-surge-if-it-clears-this-hurdle/",
+            "image_url": "https://forexnewsapi.snapi.dev/images/v1/w/i/f30-121850.jpg",
+            "title": "Gold Price Could Surge If It Clears This Hurdle",
+            "text": "The 4-hours chart of XAU/USD indicates that the price gained pace above the $1,912 resistance zone. There was a clear move above the 38.2% Fib retracement level of the downward move from the $1,949 swing high to $1,900 low.",
             "source_name": "Action Forex",
-            "date": "Fri, 27 Jan 2023 01:22:02 -0500",
+            "date": "Wed, 01 Feb 2023 01:20:23 -0500",
             "topics": [
                 "Gold"
             ],
-            "sentiment": "Positive",
+            "sentiment": "Neutral",
             "type": "Article",
             "currency": [
                 "XAU-USD"
